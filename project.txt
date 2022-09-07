@@ -30,7 +30,7 @@
        <div class="col-md-10 col-sm-12 col-xs-12">
            <main id="main-doc">
                <section class="main-section" id="What Is Art" >
-                <!--basic styling for the headings, better practice to do the same in a css file as the styling is same for all headers-->
+                
                    <h3 style = "background: black; color: white">What Is Art</h3>
                    <article>
                    <p>The classic defination of art is,it is the expression or application of human creative skill and imagination,
